@@ -8,6 +8,7 @@
 .DS_Store
 .config.local
 .env.development.local
+.env
 .config.developer
 package.json.developer
 package.json.local

@@ -5,6 +5,7 @@
 
 # misc
 .DS_Store
+.env
 .config.local
 .env.development.local
 .config.developer
